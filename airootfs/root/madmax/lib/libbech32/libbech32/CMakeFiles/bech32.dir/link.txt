@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbech32.a CMakeFiles/bech32.dir/bech32.cpp.o
+/usr/bin/ranlib libbech32.a

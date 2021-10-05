@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -O3 -fmax-errors=1 CMakeFiles/bech32_c_usage_encoding_example.dir/c_usage_encoding_example.c.o -o bech32_c_usage_encoding_example  ../libbech32/libbech32.a 

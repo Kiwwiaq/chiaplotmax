@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/kiwwiaq/chia/chia-plotter/build/_deps/relic-subbuild/CMakeFiles/relic-populate"
+		},
+		{
+			"file" : "/home/kiwwiaq/chia/chia-plotter/build/_deps/relic-subbuild/CMakeFiles/relic-populate.rule"
+		},
+		{
+			"file" : "/home/kiwwiaq/chia/chia-plotter/build/_deps/relic-subbuild/CMakeFiles/relic-populate-complete.rule"
+		},
+		{
+			"file" : "/home/kiwwiaq/chia/chia-plotter/build/_deps/relic-subbuild/relic-populate-prefix/src/relic-populate-stamp/relic-populate-build.rule"
+		},
+		{
+			"file" : "/home/kiwwiaq/chia/chia-plotter/build/_deps/relic-subbuild/relic-populate-prefix/src/relic-populate-stamp/relic-populate-configure.rule"
+		},
+		{
+			"file" : "/home/kiwwiaq/chia/chia-plotter/build/_deps/relic-subbuild/relic-populate-prefix/src/relic-populate-stamp/relic-populate-download.rule"
+		},
+		{
+			"file" : "/home/kiwwiaq/chia/chia-plotter/build/_deps/relic-subbuild/relic-populate-prefix/src/relic-populate-stamp/relic-populate-install.rule"
+		},
+		{
+			"file" : "/home/kiwwiaq/chia/chia-plotter/build/_deps/relic-subbuild/relic-populate-prefix/src/relic-populate-stamp/relic-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/kiwwiaq/chia/chia-plotter/build/_deps/relic-subbuild/relic-populate-prefix/src/relic-populate-stamp/relic-populate-patch.rule"
+		},
+		{
+			"file" : "/home/kiwwiaq/chia/chia-plotter/build/_deps/relic-subbuild/relic-populate-prefix/src/relic-populate-stamp/relic-populate-test.rule"
+		},
+		{
+			"file" : "/home/kiwwiaq/chia/chia-plotter/build/_deps/relic-subbuild/relic-populate-prefix/src/relic-populate-stamp/relic-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"relic-populate"
+		],
+		"name" : "relic-populate"
+	}
+}

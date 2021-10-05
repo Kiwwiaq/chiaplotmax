@@ -1,0 +1,3 @@
+/home/kiwwiaq/chia/chia-plotter/build/_deps/relic-subbuild/CMakeFiles/rebuild_cache.dir
+/home/kiwwiaq/chia/chia-plotter/build/_deps/relic-subbuild/CMakeFiles/edit_cache.dir
+/home/kiwwiaq/chia/chia-plotter/build/_deps/relic-subbuild/CMakeFiles/relic-populate.dir

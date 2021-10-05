@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -O3 -fmax-errors=1 CMakeFiles/bech32_c_other_examples.dir/c_other_examples.c.o -o bech32_c_other_examples  ../libbech32/libbech32.a 

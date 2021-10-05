@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -O3 -fmax-errors=1 CMakeFiles/UnitTests_bech32.dir/main.cpp.o CMakeFiles/UnitTests_bech32.dir/test_Bech32.cpp.o -o UnitTests_bech32  ../../libbech32/libbech32.a ../../../libgtest.a ../../../libgmock.a ../../../libgtest.a -lpthread ../rapidcheck/librapidcheck.a 
